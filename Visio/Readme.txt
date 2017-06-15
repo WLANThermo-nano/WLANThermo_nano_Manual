@@ -2,6 +2,6 @@
 -Zum Bearbeiten :
 Visio 
 
--Erstellen des jpg files zum einfügen in die Worddatei:
-In visio bei "speichern unter" die den Dateityp JPEG auswählen und eine Auflösung von 300 x 300 einstellen
+-Erstellen des jpg Files zum einfÃ¼gen in die Worddatei:
+In visio bei "speichern unter" die den Dateityp JPEG auswÃ¤hlen und eine AuflÃ¶sung von 300 x 300 einstellen
 
